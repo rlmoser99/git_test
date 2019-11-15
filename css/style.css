@@ -1,0 +1,45 @@
+body {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+    background-color: lightgray;
+}
+
+img {
+    border: 2px solid maroon;
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 21px;
+}
+
+a {
+    color: maroon;
+}
+
+table {
+    border: 2px solid maroon;
+    margin: 15px;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+td {
+    padding: 15px;
+    border: 1px solid maroon;
+}
